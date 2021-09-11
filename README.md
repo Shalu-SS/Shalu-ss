@@ -18,6 +18,7 @@ I help professional software engineers (backend, frontend, qa) to develop their 
 ![](https://img.shields.io/badge/Code-Shell-informational?style=flat&logo=bash&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Code-LaTeX-informational?style=flat&logo=latex&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=informational)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=linux&logoColor=white&color=informational)
 <!--
 **Shalu-SS/Shalu-ss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
