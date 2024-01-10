@@ -3,8 +3,8 @@ I'm a software engineer who is passionate about making open-source more accessib
 
 I help professional software engineers (backend, frontend, qa) to develop their quality mindset and deliver bug-free software so they become top-level engineers and get hired for the best positions in the market.
 
-- 🔭 I’m currently working on Backend Development.
-- 🔭 I’m currently working and learning Selenium.
+- 🔭 I’m currently working in Automation Testing.
+- 🔭 I’m currently working and learning Cypress.
 - 🌱 I’m currently learning Python & Flask
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
